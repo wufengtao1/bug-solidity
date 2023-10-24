@@ -1,5 +1,7 @@
 pragma solidity ^0.8.0;
 
+import "./a.sol";
+
 contract B {
     string public name;
     string public symbol;
